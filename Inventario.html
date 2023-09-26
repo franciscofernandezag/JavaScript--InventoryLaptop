@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./CSS/style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="icon" type="image/png" href="./assets/favicon.png">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+    <script src="./index.js"></script>
+    <title>Inventario</title>
+<body onload="checkLogin()">
+    <header>
+        <nav class="navbar navbar-light bg-light navbar-expand">
+            <a href="./Index.html"><img src="./assets/logo2.png" alt="Logo de la empresa"></a>
+            <div class="collapse navbar-collapse container">
+                <ul class="navbar-nav mx-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="./Inventario.html">Inventario</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./Usuarios.html">Usuarios</a>
+                    </li>
+                </ul>
+        <!-- Header con boton "buscar" sin codigo en JS -->
+                <!-- <form class="form-inline navbar-nav">
+                    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Buscar</button>
+                    <input class="form-control mr-sm-2" type="search" placeholder="Buscar" aria-label="Search">
+                </form> -->
+            </div>
+        </nav>
+    </header>
+    <button id="Mostrar" class="btn btn-secondary">Agregar Activo</button>
+    <!-- Ventana emergente oculta inicialmente -->
+    <div id="miVentanaEmergente" style="display: none;">
+        <!-- Contenido de la ventana emergente -->
+        <button id="Ocultar" class="btn btn-secondary">Ocultar</button>
+        <div class="form-group">
+            <form>
+                <div>
+                    <label for="CodInternoInput">
+                        <input type="text" class="form-control" id="CodInternoInput" placeholder="Codigo de equipo">
+                    </label>
+                    <label for="EstadoInput">
+                        <input type="text" class="form-control" id="EstadoInput" placeholder="Estado">
+                    </label>
+                    <label for="Usuarioinput">
+                        <input type="text" class="form-control" id="Usuarioinput" placeholder="Nombre de usuario">
+                    </label>
+                </div>
+                <div>
+                    <label for="UbicacionInput">
+                        <input type="text" class="form-control" id="UbicacionInput" placeholder="Ubicacion">
+                    </label>
+                    <label for="MarcaInput">
+                        <input type="text" class="form-control" id="MarcaInput" placeholder="Marca-Modelo">
+                    </label>
+                    <label for="NserieInput">
+                        <input type="text" class="form-control" id="NserieInput" placeholder="N° de serie">
+                    </label>
+                </div>
+                <div>
+                    <label for="CaracteristicasInput">
+                        <input type="text" class="form-control" id="CaracteristicasInput" placeholder="Hardware">
+                    </label>
+                    <label for="CategoriaInput">
+                        <input type="text" class="form-control" id="CategoriaInput" placeholder="Categoria (1 al 6)">
+                    </label>
+                    <label for="CondicionInput">
+                        <input type="text" class="form-control" id="CondicionInput" placeholder="Condición">
+                    </label>
+                </div>
+            </form>
+        </div>
+        <div>
+            <button id="Guardar" class="btn btn-success">Guardar</button>
+        </div>
+        </form>
+    </div>
+    </div>
+    <div>
+        <button id="Eliminar" class="btn btn-secondary">Eliminar Activo</button>
+        <label for="Eliminarinput">
+            <input type="text" class="form-control" id="Eliminarinput" placeholder="CodEquipo a Eliminar">
+        </label>
+    </div>
+    <div>
+        <button id="ModificarActivo" class="btn btn-secondary">Modificar Activo</button>
+        <label for="CodEquipoMod">
+            <input type="text" class="form-control" id="CodEquipoMod" placeholder="CodEquipo Modificar">
+        </label>
+        <label for="ItemModificar">
+            <input type="text" class="form-control" id="ItemModificar" placeholder="Item a Modificar">
+        </label>
+        <div>
+            <button id="infoMod" class="btn btn-success">Info</button>
+        </div>
+        <div id="infoWindow" style="display: none;">
+            <p class="text-secondary font-weight-bold text-left m-4"> Para modificar un activo , debe escribir el Codigo
+                del Equipo y el Item a modificar: Estado, Usuario, Ubicacion, Caracteristicas, Categoria, Condicion.</p>
+            <p class="text-secondary font-weight-bold text-left m-4"> Los Items Codigo de Equipo, MarcaModelo y NdeSerie
+                no son modificables. Son datos unicos que no se pueden alterar.</p>
+            <p class="text-secondary font-weight-bold text-left m-4"> Luego de indicar el Codigo del Equipo e item debe apretar el boton "Modificar Activo" Se mostrara una
+                ventana emergente para ingresar el valor del item que desea modificar. </p>
+        </div>
+    </div>
+    </div>
+    <div class="table-responsive-xl">
+        <table id="laptop-table" class="table table-hover">
+            <thead>
+                <tr class="table-active">
+                    <th scope="col">CodigoEquipo</th>
+                    <th scope="col">Estado</th>
+                    <th scope="col">Usuario</th>
+                    <th scope="col">Ubicación</th>
+                    <th scope="col">MarcaModelo</th>
+                    <th scope="col">NdeSerie</th>
+                    <th scope="col">Caracteristicas</th>
+                    <th scope="col">Categoria</th>
+                    <th scope="col">Condicion</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+    <script src="./Inventario.js"></script>
+</body>
+</html>

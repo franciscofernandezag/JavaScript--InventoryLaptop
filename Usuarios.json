@@ -1,0 +1,1046 @@
+[
+  {
+    "Usuario": "Alejandro Alberto Ceballos Arriagada",
+    "Cargo": "Digitador Bodega",
+    "CorreoEmpresa": "aceballos@iumbrales.cl",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Alejandro Molinet M.",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Alexander Carbajal R.",
+    "Cargo": "Asitente Oficina Tecnica",
+    "CorreoEmpresa": "acarbajal@iumbrales.cl",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Alfredo Mendoza P.",
+    "Cargo": "Jefe Administrativo",
+    "CorreoEmpresa": "amendoza@iumbrales.cl",
+    "UbicacionActual": "Briones Luco",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Alicia Villar Fontecilla",
+    "Cargo": "Asistente Administrativo",
+    "CorreoEmpresa": "avillar@iumbrales.cl",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Aliro Díaz C.",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Activo",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Andrea Ruiz O.",
+    "Cargo": "Contador Auditor",
+    "CorreoEmpresa": "aruiz@iumbrales.cl",
+    "UbicacionActual": "Oficina Central",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Andrea Valenzuela V",
+    "Cargo": "Contador Auditor",
+    "CorreoEmpresa": "avalenzuela@iumbrales.cl",
+    "UbicacionActual": "Oficina Central",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Andres Guarda",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Activo",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Andres Yañez",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Activo",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Andy Alanis",
+    "Cargo": "Profesional de terreno",
+    "CorreoEmpresa": "aalanis@iumbrales.cl",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Anthony Vargas F.",
+    "Cargo": "Digitador Bodega",
+    "CorreoEmpresa": "avargas@iumbrales.cl",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Armando Rodriguez",
+    "Cargo": "Supervisor de Concreto",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Activo",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Bastian Herrera",
+    "Cargo": "Asistente Administrativo",
+    "CorreoEmpresa": "bherrera@iumbrales.cl",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Camila Cisterna G.",
+    "Cargo": "Encargado Calidad",
+    "CorreoEmpresa": "ccisterna@iumbrales.cl",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Camila Flores H.",
+    "Cargo": "Jefe de Calidad",
+    "CorreoEmpresa": "cflores@iumbrales.cl",
+    "UbicacionActual": "Santa Filomena",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Carmen Verdugo G.",
+    "Cargo": "Ejecutivo Comercial",
+    "CorreoEmpresa": "cverdugo@hausen.cl",
+    "UbicacionActual": "Hausen",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Carolina Cancino N.",
+    "Cargo": "Encargado Calidad",
+    "CorreoEmpresa": "ccancino@iumbrales.cl",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Carolina Peña",
+    "Cargo": "Ejecutivo Comercial",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Hausen",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Carolina Valle L.",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "cvalle@iumbrales.cl",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Catalina Arce",
+    "Cargo": "Asistente Administrativo",
+    "CorreoEmpresa": "carce@iumbrales.cl",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Caxandra Muñoz S.",
+    "Cargo": "Asistente Recursos Humanos",
+    "CorreoEmpresa": "cmunoz@iumbrales.cl",
+    "UbicacionActual": "Briones Luco",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Cindy Campos Campos",
+    "Cargo": "Asistente Administrativo",
+    "CorreoEmpresa": "ccampos@iumbrales.cl",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Claudia Adasme D.",
+    "Cargo": "Analista Contable",
+    "CorreoEmpresa": "cadasme@iumbrales.cl",
+    "UbicacionActual": "Oficina Central",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Clauido Pavez Icarte",
+    "Cargo": "Jefe Administrativo",
+    "CorreoEmpresa": "cpavez@iumbrales.cl",
+    "UbicacionActual": "Santa Filomena",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Constanza Martinez S.",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Activo",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Daniel Ceballos",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Activo",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Daniel Illesca P.",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Activo",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Daniel Provoste",
+    "Cargo": "Prevencionista de Obra",
+    "CorreoEmpresa": "dprovoste@iumbrales.cl",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "David Hidalgo S.",
+    "Cargo": "Profesional de terreno",
+    "CorreoEmpresa": "dhidalgo@iumbrales.cl",
+    "UbicacionActual": "Briones Luco",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "David Vera U.",
+    "Cargo": "Asistente Administrativo",
+    "CorreoEmpresa": "dvera@iumbrales.cl",
+    "UbicacionActual": "Oficina Central",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Digitador",
+    "Cargo": "Digitador",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Generica",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Dominique Urzua Nuñez.",
+    "Cargo": "Asistente Administrativo",
+    "CorreoEmpresa": "durzua@iumbrales.cl",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Edson Maldonado C.",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "emaldonado@iumbrales.cl",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Activo",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Eduardo Curiqueo C.",
+    "Cargo": "Profesional de terreno",
+    "CorreoEmpresa": "ecuriqueo@iumbrales.cl",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Eduardo Peys",
+    "Cargo": "Jefe de Bodega",
+    "CorreoEmpresa": "epeys@iumbrales.cl",
+    "UbicacionActual": "Santa Filomena",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Enrique Lizama M.",
+    "Cargo": "Digitador Bodega",
+    "CorreoEmpresa": "elizama@iumbrales.cl",
+    "UbicacionActual": "Santa Filomena",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Esteban Rodriguez M.",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Fabian Vejar G.",
+    "Cargo": "Profesional de terreno",
+    "CorreoEmpresa": "jvejar@iumbrales.cl",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Felipe Farias C.",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Activo",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Felipe Hojman H.",
+    "Cargo": "Socio Director",
+    "CorreoEmpresa": "fhojman@iumbrales.cl",
+    "UbicacionActual": "Oficina Central",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Felipe Latorre L.",
+    "Cargo": "Profesional Instalaciones Sanitarias",
+    "CorreoEmpresa": "flatorre@iumbrales.cl",
+    "UbicacionActual": "Obras",
+    "Estado": "Activo",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Felipe Morales T.",
+    "Cargo": "Digitador Bodega",
+    "CorreoEmpresa": "fmorales@iumbrales.cl",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Felipe Siebold C.",
+    "Cargo": "Socio Director",
+    "CorreoEmpresa": "lfsiebold@hausen.cl",
+    "UbicacionActual": "Oficina Central",
+    "Estado": "Activo",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Fernanda Silva V.",
+    "Cargo": "Practicante ",
+    "CorreoEmpresa": "fsilva@iumbrales.cl",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Fernando Espinoza C.",
+    "Cargo": "Analista Control de Gestión",
+    "CorreoEmpresa": "fespinoza@iumbrales.cl",
+    "UbicacionActual": "Oficina Central",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Francisca Guerra A.",
+    "Cargo": "Encargado Calidad",
+    "CorreoEmpresa": "fguerra@iumbrales.cl",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Francisca Morovic",
+    "Cargo": "Ejecutivo Comercial",
+    "CorreoEmpresa": "fmorovic@hausen.cl",
+    "UbicacionActual": "Hausen",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Francisca Siebold B.",
+    "Cargo": "Ejecutivo Comercial",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Hausen",
+    "Estado": "Activo",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Francisco Fernández A",
+    "Cargo": "Encargado de TI",
+    "CorreoEmpresa": "ffernandez@iumbrales.cl",
+    "UbicacionActual": "Oficina Central",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Francisco Solar R.",
+    "Cargo": "Sub Gerente Construcción",
+    "CorreoEmpresa": "fsolar@iumbrales.cl",
+    "UbicacionActual": "Oficina Central",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Gerald Moyano R.",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": " ",
+    "UbicacionActual": "Briones Luco",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Gerardo Verdugo C.",
+    "Cargo": "Jefe Administrativo",
+    "CorreoEmpresa": "gverdugo@iumbrales.cl",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Guillermo Allendes H.",
+    "Cargo": "Contralor Administrativo",
+    "CorreoEmpresa": "gallendes@iumbrales.cl",
+    "UbicacionActual": "Obras",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Gustavo Jara",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Activo",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Gustavo Soto S.",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "gsoto@iumbrales.cl",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Activo",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Héctor Acevedo Y.",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "hecacevedo@iumbrales.cl",
+    "UbicacionActual": "Santa Filomena",
+    "Estado": "Activo",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Helen Acevedo R.",
+    "Cargo": "Secretaria",
+    "CorreoEmpresa": "hacevedo@iumbrales.cl",
+    "UbicacionActual": "Oficina Central",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Ignacia Spencer V.",
+    "Cargo": "Asistente Servicio al Cliente",
+    "CorreoEmpresa": "ispencer@iumbrales.cl",
+    "UbicacionActual": "Oficina Central",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "ITO ",
+    "Cargo": "Inspector Técnico de Obra",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Séptima Avenida",
+    "Estado": "Generica",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Javier Fadic D.",
+    "Cargo": "Encargado de Marketing",
+    "CorreoEmpresa": "jfadic@iumbrales.cl",
+    "UbicacionActual": "Oficina Central",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Jeremy Yañez",
+    "Cargo": "Digitador Bodega",
+    "CorreoEmpresa": "jyanez@iumbrales.cl",
+    "UbicacionActual": "Santa Filomena",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Jorge Manríquez L.",
+    "Cargo": "Profesional Oficina Técnica",
+    "CorreoEmpresa": "emanriquez@iumbrales.cl",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Jorge Yañez",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Activo",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Jose Elises",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "José Francisco Hurtado R.-T.",
+    "Cargo": "Socio Director",
+    "CorreoEmpresa": "jfhurtado@iumbrales.cl",
+    "UbicacionActual": "Oficina Central",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "José Luis Illesca M.",
+    "Cargo": "Jefe de Proyecto",
+    "CorreoEmpresa": "jlillesca@iumbrales.cl",
+    "UbicacionActual": "Oficina Central",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Jose Manuel Sandoval S.",
+    "Cargo": "Digitador Bodega",
+    "CorreoEmpresa": "jsandoval@iumbrales.cl",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Juan Acuña S.",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": " ",
+    "UbicacionActual": "Séptima Avenida",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Juan Carlos Vasquez",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "jvasquez@iumbrales.cl",
+    "UbicacionActual": "Post Venta",
+    "Estado": "Activo",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Juan Orellana",
+    "Cargo": "-",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Activo",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Juan Valenzuela P.",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Briones Luco",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Julio Cifuentes V.",
+    "Cargo": "Profesional Oficina Técnica",
+    "CorreoEmpresa": "jcifuentes@iumbrales.cl",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Kimberling Nadales",
+    "Cargo": "Encargado Calidad",
+    "CorreoEmpresa": "knadales@iumbrales.cl",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Leonardo Aguilera",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Activo",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Leonardo Del Valle",
+    "Cargo": "Digitador Bodega",
+    "CorreoEmpresa": "ldelvalle@iumbrales.cl",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Leonardo Garay A.",
+    "Cargo": "Administrador de Obra",
+    "CorreoEmpresa": "lgaray@iumbrales.cl",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Leonardo Rojas C.",
+    "Cargo": "Administrador de Obra",
+    "CorreoEmpresa": "lrojas@iumbrales.cl",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Luis Albornoz M.",
+    "Cargo": "Asistente Administrativo",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Obras",
+    "Estado": "Activo",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Luis Muñoz L.",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Activo",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Macarena Moya",
+    "Cargo": "Prevencionista de Obra",
+    "CorreoEmpresa": "mmoya@iumbrales.cl",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Marcelo Riquelme A.",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Activo",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Maria Usmacaya ",
+    "Cargo": "-",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Activo",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Mauricio Olave V.",
+    "Cargo": "Jefe de Bodega",
+    "CorreoEmpresa": "molave@iumbrales.cl",
+    "UbicacionActual": "Ottawa",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Orlando Vargas M.",
+    "Cargo": "Jefe de Obra",
+    "CorreoEmpresa": "ovargas@iumbrales.cl",
+    "UbicacionActual": "Ottawa",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Pablo Aravena",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Activo",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Pablo Bunster B.",
+    "Cargo": "Profesional de terreno",
+    "CorreoEmpresa": "pbunster@iumbrales.cl",
+    "UbicacionActual": "Oficina Central",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Pablo Duran M.",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Activo",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Pablo Lagos D.",
+    "Cargo": "Encargado de TI",
+    "CorreoEmpresa": "plagos@iumbrales.cl",
+    "UbicacionActual": "Oficina Central",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Patricio Amthauer R.",
+    "Cargo": "Controller",
+    "CorreoEmpresa": "par@iumbrales.cl",
+    "UbicacionActual": "Oficina Central",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Patricio Fernández A.",
+    "Cargo": "Jefe Depto. De Prevención de Riesgos",
+    "CorreoEmpresa": "pfernandez@iumbrales.cl",
+    "UbicacionActual": "Obras",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Patricio Pinilla C.",
+    "Cargo": "Profesional Oficina Técnica",
+    "CorreoEmpresa": "ppinilla@iumbrales.cl",
+    "UbicacionActual": "Séptima Avenida",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Paulina Diaz M.",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Activo",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "PC ESTUDIOS",
+    "Cargo": "Profesional Departamento de Estudio",
+    "CorreoEmpresa": "proyectos@iumbrales.cl",
+    "UbicacionActual": "Oficina Central",
+    "Estado": "Generica",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Pedro Valenzuela R.",
+    "Cargo": "Administrativo Operaciones",
+    "CorreoEmpresa": "pvalenzuela@iumbrales.cl",
+    "UbicacionActual": "Oficina Central",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Priscilla Nieri C.",
+    "Cargo": "Jefe de Proyecto",
+    "CorreoEmpresa": "pnieri@iumbrales.cl",
+    "UbicacionActual": "Oficina Central",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Renato Bolaños R.",
+    "Cargo": "Digitador Bodega",
+    "CorreoEmpresa": "rbolanos@iumbrales.cl",
+    "UbicacionActual": "Séptima Avenida",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Ruben Carrasco A.",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Activo",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Scarlet Hernandez",
+    "Cargo": "Asistente Administrativo",
+    "CorreoEmpresa": "shernandez@iumbrales.cl",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Sebastian Rojas",
+    "Cargo": "Profesional Oficina Técnica",
+    "CorreoEmpresa": "srojas@iumbrales.cl",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Sebastian Vasquez",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "svasquez@iumbrales.cl",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Sergio Farías C.",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Activo",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Sergio González D.",
+    "Cargo": "Jefe Administrativo",
+    "CorreoEmpresa": "sgonzalez@iumbrales.cl",
+    "UbicacionActual": "Ottawa",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Sergio Zepeda H.",
+    "Cargo": "Digitador Bodega",
+    "CorreoEmpresa": "szepeda@iumbrales.cl",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Valeria Silva A.",
+    "Cargo": "Ejecutivo Comercial",
+    "CorreoEmpresa": "vsilva@hausen.cl",
+    "UbicacionActual": "Hausen",
+    "Estado": "Activo",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Víctor Olivos H.",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "volivos@iumbrales.cl",
+    "UbicacionActual": "Ottawa",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Víctor Rubio P.",
+    "Cargo": "Jefe Administrativo",
+    "CorreoEmpresa": "vrubio@iumbrales.cl",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Vladimir Sandoval",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "William Arancibia M.",
+    "Cargo": "Jefe de Bodega",
+    "CorreoEmpresa": "warancibia@iumbrales.cl",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "Wiston Villegas A.",
+    "Cargo": "Topógrafo",
+    "CorreoEmpresa": "wvilllegas@iumbrales.cl",
+    "UbicacionActual": "Briones Luco",
+    "Estado": "Desvinculado",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Ximena Salas R.",
+    "Cargo": "Administrativo Operaciones",
+    "CorreoEmpresa": "xsalas@iumbrales.cl",
+    "UbicacionActual": "Oficina Central",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "Yuri Fernández C.",
+    "Cargo": "Administrador de Obra",
+    "CorreoEmpresa": "yfernandez@iumbrales.cl",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Activo",
+    "RequiereLaptop": "Si",
+    "RequiereCelular": "Si"
+  },
+  {
+    "Usuario": "zx-CAPACITACIÓN 1",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Santa Elisa",
+    "Estado": "Generica",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "zx-CAPACITACIÓN 2",
+    "Cargo": "Supervisor",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "Bélgica",
+    "Estado": "Generica",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "zy-LIBRE",
+    "Cargo": "-",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "-",
+    "Estado": "Generica",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  },
+  {
+    "Usuario": "zz-DEBAJA",
+    "Cargo": "-",
+    "CorreoEmpresa": "-",
+    "UbicacionActual": "-",
+    "Estado": "Generica",
+    "RequiereLaptop": "No",
+    "RequiereCelular": "No"
+  }
+]
