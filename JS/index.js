@@ -41,7 +41,7 @@ function login() {
     // Establecer una variable de sesión en Local Storage
     localStorage.setItem("session", "true");
     // Redirigir al usuario a la página principal
-    window.location.href = "Inventario.html";
+    window.location.href = "pages/Inventario.html";
   } else {
     // Mostrar un mensaje de error al usuario
 
